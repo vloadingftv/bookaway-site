@@ -82,9 +82,14 @@ export default function DonatePage() {
                 <p className="text-[#6D4C41] text-xs italic mb-4 leading-relaxed flex-1">
                   {tier.impact}
                 </p>
-                <button className="w-full bg-[#7C8C6C] hover:bg-[#6B7B5B] text-white py-2.5 rounded-full font-medium transition-colors text-sm">
+                <a
+                  href={`https://venmo.com/BookaWay?txn=pay&amount=${tier.amount}&note=BookaWay%20donation%20-%20${encodeURIComponent(tier.title)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full block text-center bg-[#7C8C6C] hover:bg-[#6B7B5B] text-white py-2.5 rounded-full font-medium transition-colors text-sm"
+                >
                   Select This Amount
-                </button>
+                </a>
               </div>
             ))}
           </div>
@@ -113,9 +118,14 @@ export default function DonatePage() {
                 className="w-full pl-8 pr-4 py-3 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-[#7C8C6C] focus:border-transparent text-[#3E2723]"
               />
             </div>
-            <button className="bg-[#7C8C6C] hover:bg-[#6B7B5B] text-white px-6 py-3 rounded-full font-medium transition-colors whitespace-nowrap">
+            <a
+              href={`https://venmo.com/BookaWay?txn=pay&amount=${customAmount || 0}&note=BookaWay%20donation`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-[#7C8C6C] hover:bg-[#6B7B5B] text-white px-6 py-3 rounded-full font-medium transition-colors whitespace-nowrap text-center"
+            >
               Select Custom Amount
-            </button>
+            </a>
           </div>
         </div>
       </section>
@@ -140,7 +150,7 @@ export default function DonatePage() {
                 className="mx-auto rounded-lg mb-4"
               />
               <a
-                href="https://venmo.com"
+                href="https://venmo.com/BookaWay"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-[#7C8C6C] hover:bg-[#6B7B5B] text-white px-6 py-2.5 rounded-full font-medium transition-colors"

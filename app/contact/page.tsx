@@ -13,6 +13,16 @@ export default function ContactPage() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    const subjectMap: Record<string, string> = {
+      general: "General Inquiry",
+      donate: "Donate Books",
+      partnership: "Partnership",
+      fundraising: "Fundraising",
+      other: "Other",
+    };
+    const subjectLine = subjectMap[formData.subject] || formData.subject;
+    const body = `Name: ${formData.name}\nEmail: ${formData.email}\n\n${formData.message}`;
+    window.location.href = `mailto:bookaway.info@gmail.com?subject=${encodeURIComponent(subjectLine)}&body=${encodeURIComponent(body)}`;
     setSubmitted(true);
   };
 
