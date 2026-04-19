@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Lora, Inter } from "next/font/google";
 import Link from "next/link";
 import Image from "next/image";
+import { ScrollProgress } from "./scroll-progress";
 import "./globals.css";
 
 const lora = Lora({
@@ -245,6 +246,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${lora.variable} ${inter.variable} h-full`}>
       <body className="min-h-full flex flex-col antialiased">
+        <ScrollProgress />
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />
