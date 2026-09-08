@@ -19,6 +19,8 @@ sobre premissa errada gasta verba e ainda ensina a lição errada.
 | 7c | Negativar o universo do ETF em toda campanha de search | `02-compartilhado/playbooks/paid-media.md` | |
 | 7d | Levar ao jurídico: qual entidade responde por cada oferta da Ilha Forte | `01-marcas/ilha-forte/compliance.md` | |
 | 7e | Confirmar os números atuais (patrimônio, clientes) — os públicos são de ~2022 | `01-marcas/<marca>/kpis.md` | |
+| 7f | Testar manualmente as marcas em 3 assistentes de IA e registrar | `05-inteligencia/llmo-visibilidade-em-ia.md` | |
+| 7g | Ler o relatório da Tidex com as 7 perguntas do documento | `05-inteligencia/llmo-visibilidade-em-ia.md` | |
 
 ## Fase 2 — Fundação (dias 31–60)
 
