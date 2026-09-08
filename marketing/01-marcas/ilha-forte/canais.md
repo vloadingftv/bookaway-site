@@ -29,6 +29,13 @@ Aqui registramos apenas o que é **específico desta marca**:
 
 ## Perfis e propriedades
 
+Levantado na varredura de set/2026 — ver [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
+Números marcados 🟡 vêm de busca aberta, não do painel nativo: confirmar.
+
 | Canal | Handle / URL | Seguidores | Última auditoria |
 |---|---|---|---|
-| | | | |
+| Site | `ilhaforte.com.br` (com versão `/pt/`) | — | set/2026 |
+| Páginas-chave | `/alavancagem-patrimonial`, `/area-de-cambio`, `/blog` | — | set/2026 |
+| Blog | ativo | — | set/2026 |
+| Instagram | existe; ⚠️ handle a confirmar | — | set/2026 |
+| LinkedIn | ⚠️ a confirmar | — | — |

@@ -16,6 +16,7 @@ histórico de quem mudou o quê, quando e por quê.
 | `02-compartilhado/` | Templates, playbooks por canal e biblioteca comuns ao grupo |
 | `03-planejamento/` | OKRs, calendário master, orçamento, roadmap trimestral |
 | `04-relatorios/` | Relatórios mensais e trimestrais consolidados do grupo |
+| `05-inteligencia/` | Pesquisa de mercado e auditoria de presença digital |
 
 ## As marcas do grupo
 
@@ -23,7 +24,11 @@ histórico de quem mudou o quê, quando e por quê.
 |---|---|---|---|
 | EWZ Capital | [`01-marcas/ewz-capital/`](01-marcas/ewz-capital/) | Investidor qualificado / institucional | Gestão e originação |
 | Mundo Invest | [`01-marcas/mundo-invest/`](01-marcas/mundo-invest/) | Investidor pessoa física | Aquisição e educação |
-| Ilha Forte | [`01-marcas/ilha-forte/`](01-marcas/ilha-forte/) | ⚠️ A CONFIRMAR | ⚠️ A CONFIRMAR |
+| Ilha Forte | [`01-marcas/ilha-forte/`](01-marcas/ilha-forte/) | Quem constrói patrimônio via crédito | Alavancagem, consórcio e câmbio |
+
+> A varredura de set/2026 encontrou **oito** ativos de marca no ar, não três —
+> EWZ Private, EWZ Câmbio, EWZ Seguros, Guru Investidor e Clube do Henriquecer também.
+> Ver [`05-inteligencia/2026-09-mapeamento-digital.md`](05-inteligencia/2026-09-mapeamento-digital.md).
 
 O **EWZ Group** é o guarda-chuva — a casa que detém as três. Ele não é uma quarta
 marca com calendário e campanha próprios; é o nível em que se consolidam orçamento,

@@ -9,10 +9,12 @@
 
 | | |
 |---|---|
-| Categoria | Conteúdo e educação em investimentos / aquisição |
+| Categoria | Plataforma de conteúdo, simulador e planejamento financeiro (web + app iOS/Android) |
 | Público | Investidor pessoa física |
 | Papel no grupo | Topo de funil — volume, audiência e relacionamento |
-| Site | ⚠️ definir |
+| Site | `mundoinvest.com.br` (+ `lp.mundoinvest.com.br` para captura) |
+
+> Dados de mercado levantados em set/2026: [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
 
 ## Posicionamento
 

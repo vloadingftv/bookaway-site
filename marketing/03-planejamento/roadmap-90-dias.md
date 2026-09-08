@@ -14,6 +14,11 @@ sobre premissa errada gasta verba e ainda ensina a lição errada.
 | 5 | Definir o que é a Ilha Forte | `01-marcas/ilha-forte/brand-brief.md` | |
 | 6 | Alinhar definição de MQL/SQL com o comercial | `02-compartilhado/biblioteca/glossario.md` | |
 | 7 | Mapear exigências de compliance | `01-marcas/<marca>/compliance.md` | |
+| 7a | Definir domínio canônico da EWZ Capital e redirecionar o outro com 301 | `05-inteligencia/` | |
+| 7b | Reivindicar e verificar o perfil no Reclame Aqui | `05-inteligencia/` | |
+| 7c | Negativar o universo do ETF em toda campanha de search | `02-compartilhado/playbooks/paid-media.md` | |
+| 7d | Levar ao jurídico: qual entidade responde por cada oferta da Ilha Forte | `01-marcas/ilha-forte/compliance.md` | |
+| 7e | Confirmar os números atuais (patrimônio, clientes) — os públicos são de ~2022 | `01-marcas/<marca>/kpis.md` | |
 
 ## Fase 2 — Fundação (dias 31–60)
 
@@ -36,6 +41,12 @@ sobre premissa errada gasta verba e ainda ensina a lição errada.
 | 17 | Régua de e-mail no ar | `02-compartilhado/playbooks/email-crm.md` | |
 | 18 | Primeiro relatório mensal completo | `04-relatorios/2026/` | |
 | 19 | Post-mortem e ajuste dos playbooks | `02-compartilhado/playbooks/` | |
+
+## Achados de setembro/2026
+
+A varredura em [`../05-inteligencia/2026-09-mapeamento-digital.md`](../05-inteligencia/2026-09-mapeamento-digital.md)
+já resolveu parte do diagnóstico e adicionou os itens 7a-7e. Os itens 7a, 7b e 7c são
+baratos, rápidos e mexem em conversão — valem ser feitos antes de qualquer campanha nova.
 
 ## Se for para escolher só três coisas
 

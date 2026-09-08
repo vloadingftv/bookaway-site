@@ -5,9 +5,9 @@ independente da marca.
 
 | Marca | Estágio da documentação | Maior lacuna |
 |---|---|---|
-| [EWZ Capital](ewz-capital/) | Esqueleto criado | Posicionamento e relação com as demais |
-| [Mundo Invest](mundo-invest/) | Esqueleto criado | ICP e metas de audiência |
-| [Ilha Forte](ilha-forte/) | Esqueleto criado | **Tudo** — a marca ainda não foi definida aqui |
+| [EWZ Capital](ewz-capital/) | Ficha inicial preenchida (set/2026) | Domínio canônico e números atuais |
+| [Mundo Invest](mundo-invest/) | Ficha inicial preenchida (set/2026) | ICP, metas de audiência e handle do Instagram |
+| [Ilha Forte](ilha-forte/) | Ficha inicial preenchida (set/2026) | Handles sociais e mapa de entidade jurídica por oferta |
 
 ## Ordem de preenchimento
 
@@ -32,8 +32,15 @@ para o mercado — e isso muda campanha, site, assinatura de e-mail e material d
 | Endossado | "EWZ Capital, uma empresa do EWZ Group" | O grupo empresta credibilidade — e herda o risco de reputação de cada marca |
 | Marca única | Tudo vira EWZ | Simplifica, mas descarta o que Mundo Invest e Ilha Forte já construíram |
 
-⚠️ **Decisão pendente.** Enquanto não for tomada, use o modelo **independente** nas
-peças: é o único que não cria expectativa difícil de desfazer depois.
+**A estrutura de domínios já respondeu em parte.** `capital.ewz.com.br` e
+`private.ewz.com.br` penduram as marcas sob `ewz.com.br` — isso **é** modelo endossado, já
+no ar. O que falta é tornar a decisão explícita e aplicá-la de forma consistente: hoje
+`ewzcapital.com.br` roda em paralelo, e Mundo Invest e Ilha Forte usam domínios próprios
+sem endosso visível.
+
+⚠️ **Decisão a formalizar:** estender o endosso a Mundo Invest e Ilha Forte ou mantê-las
+independentes de propósito? Enquanto não for decidido, não crie endosso novo em peça —
+o que já está no ar continua como está.
 
 ## O que a decisão destrava
 

@@ -9,10 +9,12 @@
 
 | | |
 |---|---|
-| Categoria | Gestão / originação de investimentos |
+| Categoria | Assessoria de investimentos credenciada ao BTG Pactual (desde 2021; antes XP) |
 | Público | Investidor qualificado, family office, institucional |
 | Papel no grupo | Ponta institucional — credibilidade e track record |
-| Site | ⚠️ definir |
+| Site | `capital.ewz.com.br` — ⚠️ `ewzcapital.com.br` roda em paralelo, definir o canônico |
+
+> Dados de mercado levantados em set/2026: [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
 
 ## Posicionamento
 

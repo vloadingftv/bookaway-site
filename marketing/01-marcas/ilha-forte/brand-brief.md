@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| Categoria | ⚠️ definir |
-| Público | ⚠️ definir |
-| Papel no grupo | ⚠️ definir |
-| Site | ⚠️ definir |
+| Categoria | Alavancagem patrimonial, consórcio e câmbio |
+| Público | Quem quer construir patrimônio em imóvel, terreno, construção, veículo e frota |
+| Papel no grupo | Crédito e alavancagem — sócios em comum com a EWZ (registro público) |
+| Site | `ilhaforte.com.br` |
 
 ## Perguntas a responder primeiro
 
@@ -23,6 +23,8 @@
 6. Qual o orçamento e a expectativa de resultado para os próximos 12 meses?
 
 Sem as respostas 1, 2 e 4, não faz sentido abrir campanha.
+
+> Dados de mercado levantados em set/2026: [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
 
 ## Posicionamento
 
