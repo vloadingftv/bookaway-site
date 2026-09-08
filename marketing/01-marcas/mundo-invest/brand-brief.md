@@ -16,6 +16,17 @@
 
 > Dados de mercado levantados em set/2026: [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
 
+## Meta 2026
+
+**Posicionar como planejadora financeira.**
+
+Mercado subatendido: 1 planejador CFP para cada ~11.600 adultos no Brasil, contra menos
+de 2.000 em EUA e Canadá. Categoria em crescimento e sem líder de marca consolidado.
+
+⚠️ **Decisão que precede tudo:** modelo Mint (grátis, alcance, gera lead para a EWZ) ou
+modelo Monarch (assinatura, isenção, menos alcance)? O meio-termo foi o que matou o Mint.
+Ver [`concorrência e benchmarks`](../../05-inteligencia/2026-09-concorrencia-e-benchmarks.md).
+
 ## Posicionamento
 
 > Para **[quem]**, o Mundo Invest é **[categoria]** que **[benefício]**,

@@ -26,6 +26,18 @@ Sem as respostas 1, 2 e 4, não faz sentido abrir campanha.
 
 > Dados de mercado levantados em set/2026: [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
 
+## Meta 2026
+
+**Fortalecer a marca.**
+
+⚠️ Meta a especificar: fortalecer em quê — reconhecimento, volume de crédito, ticket,
+retenção? Sem recorte, não há como medir.
+
+Recomendação de posicionamento: **não** competir em "consórcio" contra Embracon, Ademicon
+e Porto — 30 a 40 anos de marca e orçamento maior. Competir em **crédito dentro de uma
+estratégia patrimonial**, que nenhuma administradora entrega porque não tem assessoria no
+grupo. Ver [`concorrência e benchmarks`](../../05-inteligencia/2026-09-concorrencia-e-benchmarks.md).
+
 ## Posicionamento
 
 > Para **[quem]**, a Ilha Forte é **[categoria]** que **[benefício]**,

@@ -16,6 +16,17 @@
 
 > Dados de mercado levantados em set/2026: [`mapeamento digital`](../../05-inteligencia/2026-09-mapeamento-digital.md).
 
+## Meta 2026
+
+**Passar a EQI Investimentos.**
+
+Referência: EQI com R$ 52 bi sob custódia, +85 mil clientes, 500 assessores a contratar
+em 2026. A distância é de ordem de grandeza — ver
+[`concorrência e benchmarks`](../../05-inteligencia/2026-09-concorrencia-e-benchmarks.md).
+
+⚠️ Como está, é meta de M&A e captação de assessores, não de marketing. Traduzir em
+share of voice, marca empregadora e captação líquida antes de virar OKR.
+
 ## Posicionamento
 
 _(Uma frase: para quem, o que entregamos, por que somos diferentes.)_

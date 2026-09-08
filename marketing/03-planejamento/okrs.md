@@ -5,7 +5,10 @@
 
 ## Q4 2026 (out–dez)
 
-### Objetivo 1 — _(qualitativo, ambicioso, memorável)_
+### Objetivo 1 — EWZ Capital: ser considerada por quem hoje escolhe a EQI
+
+Tradução da meta "passar a EQI" para o que o marketing controla. A meta original é de
+captação e M&A; aqui fica a parte de marca.
 
 | KR | Baseline | Meta | Realizado | Score |
 |---|---|---|---|---|
@@ -15,17 +18,22 @@
 
 **Marca:** | **Dono:** 
 
-### Objetivo 2 —
+### Objetivo 2 — Mundo Invest: virar referência de planejamento financeiro
+
+⚠️ Bloqueado até a decisão de modelo de receita (Mint × Monarch).
 
 | KR | Baseline | Meta | Realizado | Score |
 |---|---|---|---|---|
 | KR1 | | | | |
 
-### Objetivo 3 —
+### Objetivo 3 — Ilha Forte: sair da disputa por "consórcio" e ocupar "estratégia patrimonial"
 
 | KR | Baseline | Meta | Realizado | Score |
 |---|---|---|---|---|
 | KR1 | | | | |
+
+> Metas de origem e o mapa competitivo que as sustenta:
+> [`../05-inteligencia/2026-09-concorrencia-e-benchmarks.md`](../05-inteligencia/2026-09-concorrencia-e-benchmarks.md)
 
 ## Regras
 
