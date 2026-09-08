@@ -1,11 +1,11 @@
-# Marcas
+# Marcas do EWZ Group
 
 Cada marca tem a mesma estrutura de arquivos — assim qualquer pessoa sabe onde procurar,
 independente da marca.
 
 | Marca | Estágio da documentação | Maior lacuna |
 |---|---|---|
-| [EWZ Capital](ewz-capital/) | Esqueleto criado | Posicionamento e relação entre marcas |
+| [EWZ Capital](ewz-capital/) | Esqueleto criado | Posicionamento e relação com as demais |
 | [Mundo Invest](mundo-invest/) | Esqueleto criado | ICP e metas de audiência |
 | [Ilha Forte](ilha-forte/) | Esqueleto criado | **Tudo** — a marca ainda não foi definida aqui |
 
@@ -21,12 +21,25 @@ Preencher fora de ordem gera retrabalho — cada documento depende do anterior:
 6. `compliance.md` — o que não podemos dizer.
 7. `calendario/` e `campanhas/` — execução.
 
-## Decisão pendente que trava as três marcas
+## Arquitetura de marcas
 
-**Arquitetura de marcas:** EWZ Capital, Mundo Invest e Ilha Forte são marcas
-independentes, endossadas ou faces de uma mesma casa?
+O guarda-chuva é o **EWZ Group**. O que ainda não está decidido é **como ele aparece**
+para o mercado — e isso muda campanha, site, assinatura de e-mail e material de vendas:
 
-A resposta define se elas podem aparecer juntas, se compartilham base de leads,
-se um lead de uma pode ser abordado pela outra (com implicação de LGPD) e se
-o investimento em uma constrói autoridade para as demais. Enquanto não decidido,
-tratar como **independentes** — é a hipótese que não gera passivo.
+| Modelo | Como fica | Implicação |
+|---|---|---|
+| Independente | O grupo não aparece nas peças | Cada marca constrói autoridade sozinha; nada se aproveita |
+| Endossado | "EWZ Capital, uma empresa do EWZ Group" | O grupo empresta credibilidade — e herda o risco de reputação de cada marca |
+| Marca única | Tudo vira EWZ | Simplifica, mas descarta o que Mundo Invest e Ilha Forte já construíram |
+
+⚠️ **Decisão pendente.** Enquanto não for tomada, use o modelo **independente** nas
+peças: é o único que não cria expectativa difícil de desfazer depois.
+
+## O que a decisão destrava
+
+- Se as marcas podem aparecer juntas na mesma peça.
+- Se um lead de uma marca pode ser abordado pela outra — aqui a questão não é só de
+  marketing, é de **base legal de LGPD**: até que se defina o contrário, trate as três
+  como controladores distintos (ver `02-compartilhado/playbooks/email-crm.md`).
+- Se investimento em uma marca constrói autoridade para as demais.
+- Se o relatório mensal consolida ou apenas soma as três.

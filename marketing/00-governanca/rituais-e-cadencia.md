@@ -27,7 +27,7 @@
 ## Anual
 
 - Plano de marketing e orçamento do ano.
-- Revisão de marca: identidade, tom de voz, arquitetura das três marcas.
+- Revisão de marca: identidade, tom de voz, arquitetura de marcas do EWZ Group.
 
 ## Regra de decisão
 

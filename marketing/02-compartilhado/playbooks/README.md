@@ -1,6 +1,6 @@
 # Playbooks
 
-Como fazemos cada canal, valendo para as três marcas. O que é específico de uma
+Como fazemos cada canal, valendo para as três marcas do EWZ Group. O que é específico de uma
 marca fica em `01-marcas/<marca>/canais.md`.
 
 | Playbook | Canal |

@@ -1,4 +1,4 @@
-# OKRs de marketing
+# OKRs de marketing — EWZ Group
 
 > ⚠️ A CONFIRMAR — estrutura pronta, conteúdo a definir com a diretoria.
 > Revisão trimestral; pontuação no fim de cada trimestre.

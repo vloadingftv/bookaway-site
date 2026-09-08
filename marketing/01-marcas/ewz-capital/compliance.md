@@ -1,7 +1,7 @@
 # EWZ Capital — compliance na comunicação
 
 > ⚠️ Este documento **não é parecer jurídico**. É o checklist operacional do marketing.
-> A palavra final é sempre do jurídico/compliance da casa.
+> A palavra final é sempre do jurídico/compliance do EWZ Group.
 
 ## Regra de ouro
 

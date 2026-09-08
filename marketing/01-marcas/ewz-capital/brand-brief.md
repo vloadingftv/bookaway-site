@@ -11,7 +11,7 @@
 |---|---|
 | Categoria | Gestão / originação de investimentos |
 | Público | Investidor qualificado, family office, institucional |
-| Papel na casa | Ponta institucional — credibilidade e track record |
+| Papel no grupo | Ponta institucional — credibilidade e track record |
 | Site | ⚠️ definir |
 
 ## Posicionamento
@@ -48,15 +48,20 @@ Palavras que evitamos: "garantido", "sem risco", "oportunidade imperdível",
 
 **Não faz:** conteúdo de meme, promessa de retorno, trend de rede social, disputa de preço.
 
-## Relação com as outras marcas
+## Posição dentro do EWZ Group
 
-| Marca | Relação |
+A EWZ Capital é uma das três marcas do **EWZ Group**, ao lado de Mundo Invest e Ilha Forte.
+
+| Pergunta | Resposta |
 |---|---|
-| Mundo Invest | ⚠️ definir: co-branding, funil compartilhado ou separação total |
-| Ilha Forte | ⚠️ definir |
+| O grupo aparece nas peças da EWZ Capital? | ⚠️ definir — ver `../README.md` |
+| Assinatura em uso | ⚠️ ex.: "EWZ Capital, uma empresa do EWZ Group" |
+| Relação com Mundo Invest | ⚠️ definir |
+| Relação com Ilha Forte | ⚠️ definir |
+| Lead desta marca pode ser abordado pelas outras? | ⚠️ **não**, até haver base legal de LGPD definida |
 
-Decidir isso é prioridade: define se um lead do Mundo Invest pode virar cliente EWZ,
-e se as marcas podem aparecer juntas em peça pública.
+Enquanto a arquitetura de marcas não for decidida, trate a marca como independente
+nas peças públicas.
 
 ## Concorrentes de referência
 

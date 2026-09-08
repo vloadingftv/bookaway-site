@@ -1,6 +1,7 @@
-# Glossário
+# Glossário — EWZ Group
 
-Para que time de marketing, comercial e diretoria usem os mesmos termos com o mesmo sentido.
+Para que time de marketing, comercial e diretoria do EWZ Group usem os mesmos termos
+com o mesmo sentido.
 
 ## Métricas
 
@@ -33,6 +34,8 @@ Para que time de marketing, comercial e diretoria usem os mesmos termos com o me
 
 | Termo | O que queremos dizer |
 |---|---|
-| Marca-mãe | ⚠️ definir a arquitetura de marcas primeiro |
+| EWZ Group | O grupo: guarda-chuva de EWZ Capital, Mundo Invest e Ilha Forte. Nível em que se consolidam orçamento, OKRs e relatório |
+| Marca | Uma das três: EWZ Capital, Mundo Invest ou Ilha Forte. O grupo não é marca |
+| Nível grupo | Decisão ou número que vale para as três — não confundir com a soma delas |
 | Peça | Qualquer material publicado: post, e-mail, anúncio, página |
 | Aprovada | Passou por compliance **naquela versão** |

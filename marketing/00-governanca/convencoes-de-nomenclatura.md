@@ -14,7 +14,7 @@ Exemplos: `2026-10-mundo-invest-renda-fixa`, `2026-11-ewz-carta-trimestral`.
 
 ## UTMs
 
-Padrão único para as três marcas — sem isso o relatório não fecha.
+Padrão único para as três marcas do EWZ Group — sem isso o relatório não fecha.
 
 ```
 utm_source   = plataforma          google | meta | linkedin | youtube | email | whatsapp

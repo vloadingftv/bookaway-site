@@ -11,7 +11,7 @@
 |---|---|
 | Categoria | Conteúdo e educação em investimentos / aquisição |
 | Público | Investidor pessoa física |
-| Papel na casa | Topo de funil — volume, audiência e relacionamento |
+| Papel no grupo | Topo de funil — volume, audiência e relacionamento |
 | Site | ⚠️ definir |
 
 ## Posicionamento
@@ -54,9 +54,17 @@ projeção de rentabilidade, urgência artificial.
 
 A base de e-mail é o único ativo que não depende de algoritmo. Prioridade sobre seguidores.
 
-## Relação com as outras marcas
+## Posição dentro do EWZ Group
 
-| Marca | Relação |
+A Mundo Invest é uma das três marcas do **EWZ Group**, ao lado de EWZ Capital e Ilha Forte.
+
+| Pergunta | Resposta |
 |---|---|
-| EWZ Capital | ⚠️ definir — o Mundo Invest alimenta o funil da EWZ? |
-| Ilha Forte | ⚠️ definir |
+| O grupo aparece nas peças da Mundo Invest? | ⚠️ definir — ver `../README.md` |
+| Assinatura em uso | ⚠️ ex.: "Mundo Invest, uma empresa do EWZ Group" |
+| Relação com EWZ Capital | ⚠️ definir |
+| Relação com Ilha Forte | ⚠️ definir |
+| Lead desta marca pode ser abordado pelas outras? | ⚠️ **não**, até haver base legal de LGPD definida |
+
+Enquanto a arquitetura de marcas não for decidida, trate a marca como independente
+nas peças públicas.

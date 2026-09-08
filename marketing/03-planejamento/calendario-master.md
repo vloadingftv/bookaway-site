@@ -1,4 +1,4 @@
-# Calendário master — as três marcas
+# Calendário master — EWZ Group
 
 Visão única para evitar que EWZ, Mundo Invest e Ilha Forte disputem a mesma
 semana, a mesma verba ou o mesmo time de produção.

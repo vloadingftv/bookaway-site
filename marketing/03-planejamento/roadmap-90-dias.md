@@ -1,6 +1,6 @@
-# Roadmap — primeiros 90 dias
+# Roadmap — primeiros 90 dias no EWZ Group
 
-Ordem de trabalho para sair do zero. Diagnóstico antes de execução: campanha
+Ordem de trabalho para estruturar o marketing do EWZ Group do zero. Diagnóstico antes de execução: campanha
 sobre premissa errada gasta verba e ainda ensina a lição errada.
 
 ## Fase 1 — Diagnóstico (dias 1–30)
@@ -10,7 +10,7 @@ sobre premissa errada gasta verba e ainda ensina a lição errada.
 | 1 | Inventário de acessos e ferramentas | `00-governanca/stack-de-ferramentas.md` | |
 | 2 | Auditoria: o que já existe de cada marca | `01-marcas/<marca>/canais.md` | |
 | 3 | Números atuais das três marcas | `01-marcas/<marca>/kpis.md` | |
-| 4 | Definir a arquitetura de marcas | `01-marcas/README.md` | |
+| 4 | Definir como o EWZ Group aparece nas marcas | `01-marcas/README.md` | |
 | 5 | Definir o que é a Ilha Forte | `01-marcas/ilha-forte/brand-brief.md` | |
 | 6 | Alinhar definição de MQL/SQL com o comercial | `02-compartilhado/biblioteca/glossario.md` | |
 | 7 | Mapear exigências de compliance | `01-marcas/<marca>/compliance.md` | |
@@ -40,7 +40,7 @@ sobre premissa errada gasta verba e ainda ensina a lição errada.
 ## Se for para escolher só três coisas
 
 1. Descobrir o número real de cada marca hoje (item 3).
-2. Decidir a arquitetura de marcas (item 4).
+2. Decidir a arquitetura de marcas do EWZ Group (item 4).
 3. Padronizar o rastreamento (item 11).
 
 Sem esses três, nenhum relatório dos próximos meses vai significar coisa alguma.

@@ -26,7 +26,7 @@ Mais que isso fragmenta o aprendizado do algoritmo e ninguém sai do modo de tes
 Mexer na campanha todo dia impede o algoritmo de sair da fase de aprendizado.
 Ansiedade custa verba.
 
-## Regras da casa
+## Regras do EWZ Group
 
 - Métrica que manda é CAC, não CPL. Lead barato que não fecha é prejuízo com aparência de resultado.
 - Sempre excluir clientes atuais e convertidos.

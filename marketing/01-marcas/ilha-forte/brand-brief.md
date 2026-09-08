@@ -10,7 +10,7 @@
 |---|---|
 | Categoria | ⚠️ definir |
 | Público | ⚠️ definir |
-| Papel na casa | ⚠️ definir |
+| Papel no grupo | ⚠️ definir |
 | Site | ⚠️ definir |
 
 ## Perguntas a responder primeiro
@@ -45,9 +45,17 @@ Sem as respostas 1, 2 e 4, não faz sentido abrir campanha.
 
 **Não faz:** 
 
-## Relação com as outras marcas
+## Posição dentro do EWZ Group
 
-| Marca | Relação |
+A Ilha Forte é uma das três marcas do **EWZ Group**, ao lado de EWZ Capital e Mundo Invest.
+
+| Pergunta | Resposta |
 |---|---|
-| EWZ Capital | ⚠️ definir |
-| Mundo Invest | ⚠️ definir |
+| O grupo aparece nas peças da Ilha Forte? | ⚠️ definir — ver `../README.md` |
+| Assinatura em uso | ⚠️ ex.: "Ilha Forte, uma empresa do EWZ Group" |
+| Relação com EWZ Capital | ⚠️ definir |
+| Relação com Mundo Invest | ⚠️ definir |
+| Lead desta marca pode ser abordado pelas outras? | ⚠️ **não**, até haver base legal de LGPD definida |
+
+Enquanto a arquitetura de marcas não for decidida, trate a marca como independente
+nas peças públicas.

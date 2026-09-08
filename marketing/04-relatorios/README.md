@@ -1,11 +1,11 @@
-# Relatórios
+# Relatórios — EWZ Group
 
-Fechamento mensal até o 5º dia útil, consolidando as três marcas.
+Fechamento mensal até o 5º dia útil, consolidando as três marcas do EWZ Group.
 
 ```
 04-relatorios/
 └── AAAA/
-    ├── AAAA-MM-consolidado.md      As três marcas
+    ├── AAAA-MM-consolidado.md      As três marcas do grupo
     ├── AAAA-MM-ewz-capital.md      Detalhe por marca, quando necessário
     ├── AAAA-MM-mundo-invest.md
     └── AAAA-MM-ilha-forte.md

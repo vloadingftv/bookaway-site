@@ -30,5 +30,5 @@
 ## Regra inegociável
 
 Qualquer peça que cite rentabilidade, produto de investimento ou recomendação
-passa por Compliance **antes** de ir ao ar. Sem exceção, em qualquer das três marcas.
+passa por Compliance **antes** de ir ao ar. Sem exceção, em qualquer das três marcas do EWZ Group.
 Ver `01-marcas/<marca>/compliance.md`.
